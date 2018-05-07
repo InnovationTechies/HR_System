@@ -5,7 +5,14 @@ using System.Web;
 
 namespace HR_System.Models
 {
+    
+    /// <summary>
+/// /
+/// </summary>
     public class Job
     {
+
+
+        
     }
 }
