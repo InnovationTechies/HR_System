@@ -14,5 +14,10 @@ namespace HR_System.Controllers
 
 
         }
+
+        public void HomeTime()
+        {
+            
+        }
     }
 }
